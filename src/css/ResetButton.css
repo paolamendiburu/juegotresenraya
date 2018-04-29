@@ -1,0 +1,12 @@
+.reset{
+
+    text-align: center;
+    width: 90%;
+}
+.reset-btn{
+    margin-top: 35px;
+    padding: 15px 50px;
+    background: gray;
+    color: white;
+    font-size: 20px;
+}
